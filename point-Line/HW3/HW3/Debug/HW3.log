@@ -1,0 +1,26 @@
+﻿生成启动时间为 2018/3/26 14:53:32。
+     1>项目“G:\大三下\计算机图形学\平时作业\hw3\HW3\HW3\HW3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt test_glu.cpp
+         test_glu.cpp
+     1>g:\大三下\计算机图形学\平时作业\hw3\hw3\hw3\test_glu.cpp(31): warning C4838: 从“double”转换到“float”需要收缩转换
+     1>g:\大三下\计算机图形学\平时作业\hw3\hw3\hw3\test_glu.cpp(31): warning C4305: “初始化”: 从“double”到“float”截断
+     1>g:\大三下\计算机图形学\平时作业\hw3\hw3\hw3\test_glu.cpp(34): warning C4838: 从“double”转换到“float”需要收缩转换
+     1>g:\大三下\计算机图形学\平时作业\hw3\hw3\hw3\test_glu.cpp(34): warning C4305: “初始化”: 从“double”到“float”截断
+     1>g:\大三下\计算机图形学\平时作业\hw3\hw3\hw3\test_glu.cpp(168): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\大三下\计算机图形学\平时作业\hw3\hw3\hw3\test_glu.cpp(169): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\大三下\计算机图形学\平时作业\hw3\hw3\hw3\test_glu.cpp(185): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+       Link:
+         D:\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\大三下\计算机图形学\平时作业\hw3\HW3\Debug\HW3.exe" /INCREMENTAL /NOLOGO glfw3.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"G:\大三下\计算机图形学\平时作业\hw3\HW3\Debug\HW3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\大三下\计算机图形学\平时作业\hw3\HW3\Debug\HW3.lib" /MACHINE:X86 Debug\glad.obj
+         Debug\imgui.obj
+         Debug\imgui_demo.obj
+         Debug\imgui_draw.obj
+         Debug\imgui_impl_glfw_gl3.obj
+         Debug\main.obj
+         Debug\test_glu.obj
+         HW3.vcxproj -> G:\大三下\计算机图形学\平时作业\hw3\HW3\Debug\HW3.exe
+     1>已完成生成项目“G:\大三下\计算机图形学\平时作业\hw3\HW3\HW3\HW3.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:11.68
